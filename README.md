@@ -66,3 +66,9 @@
     1. 在完成基本业务实现的基础上，独自优化数据结构和数据实现。
     2. 中间件功能的多处实现，利用Kafka，ActiveMQ分布式重构代码进行业务重构。
     3. 打通第三方业务接入，支付宝，gitlab，对接内部EDS 形成对公司内部人员。
+----
+## 开源项目
+- [springBoot-docker](https://github.com/troublrMan/springBoot-docker): spring boot集成docker发布微服务。
+- [seoTools](https://github.com/troublrMan/seoTools): 用来处理专门处理Senuke的工具。
+- [PmcSearchTools](https://github.com/suyuanhxx/VolunteerBank) : PMC网页抓取工具，Spring+Mybaties+JsoupPMC网页爬虫框架
+- [My-Blog](https://github.com/troublrMan/My-Blog) : Docker+SpringBoot+Mybatis+thymeleaf的开源Java博客系统io，参与pr
