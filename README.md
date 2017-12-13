@@ -5,3 +5,5 @@
 - 工作年限3年  现居住地：上海 
 - 技术博客地址：http://blogtm.sh1.newtouch.com/
 - Github: https://github.com/troublrMan
+- 期望职位：Java后端工程师
+- 手机号：18101795616（微信同号）  邮箱：cxiangrikui@163.com
