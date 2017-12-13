@@ -10,7 +10,7 @@
 ----
 ## 技能清单
 - Java，J2EE，JavaScript，Html，Bootstrap，Highchart，Vue
-- Spring FrameWork(SpringMVC，Spring Boot，Spring Cloud，Spring-Data-jpa)
+- Spring FrameWork(SpringMVC，Spring Boot，Spring Cloud，Spring-Data-Jpa，Spring Security)
 - MySQL，MyBatis，Redis
 - Activemq，Kafka
 - Git，SVN，Maven，Gradle，IntelliJ IDEA
@@ -22,8 +22,11 @@
 - 公司背景：国内首款技能分享型社交产品！O2O 电竞游戏、宅男宅女情感咨询、占卜、直播视屏等休闲娱乐技能分享型社交平台;
   致力于打造最大，最佳用户体验的休闲娱乐类社交平台，成为泛娱乐社交产品No1！
 - 职责：二鱼项目及子项目（数据平台 推荐服务 App后台api开发）
-- 技术：JDK8 + Spring Cloud全家桶 + MyBatis + Redis + Mysql +Docker+Bootstrap ，采用集群分布式部署。
+- 技术：JDK8 + Spring Cloud全家桶 + MyBatis + Redis + Mysql +Docker+Bootstrap+Cas+Spring Security，采用集群分布式部署。
 - 主要负责功能点如下：
+    1. 数据平台。
+    2. 推荐服务。
+    3. eryu App后台api开发
 - 主要成就：
 
 ### 上海新致软件有限公司 （2015.01 ~ 2016.12）
